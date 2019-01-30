@@ -1,0 +1,20 @@
+# Changelog page source
+
+
+- title: Version 0.0.0
+  label: STABLE = Null
+  date: Jan 30, 2019
+  list:
+  - Just crawled thousands of webs and here they are (just kidding is all open source Github)
+
+- title: Version 0.0.1
+  label: STABLE = Nope
+  date: Jan 30, 2019
+  list:
+  - Well kinda starting
+
+- title: Version 0.0.2
+  label: A bit more STABLE but not really
+  date: Jan 30, 2019
+  list:
+  - Well kinda starting v2
